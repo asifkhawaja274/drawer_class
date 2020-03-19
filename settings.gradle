@@ -1,0 +1,2 @@
+rootProject.name='MyDrawer1'
+include ':app'
